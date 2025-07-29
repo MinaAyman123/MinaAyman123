@@ -93,4 +93,10 @@
   </a>
 </div>
 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/MinaAyman123/AI.git" title="AI">
+    <img align="left" height="115" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=AI&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
 </h4>
