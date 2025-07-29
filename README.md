@@ -86,13 +86,7 @@
 
 <h4 align="center">
   🔍 <a href="https://github.com/mina-ayman?tab=repositories">Explore my repositories</a>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MinaAyman123/Zero-Grad-ML.git" title="Zero Grad">
-    <img align="left" height="115" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=Zero-Grad-ML&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
+  
 <div width="100%" align="center">
   <a align="left" href="https://github.com/MinaAyman123/AI.git" title="AI">
     <img align="left" height="115" 
