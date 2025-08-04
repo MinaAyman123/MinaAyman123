@@ -57,6 +57,10 @@
 - 🎲 **Guess the Number Game**  
   A fun number guessing game with multiple difficulty levels. The user has to guess a random number in a limited number of tries.
 
+- 🧩 **Guess the Word (Python)**  
+  A word guessing game where the program selects a random word from categories like Animals, Cities, Foods, etc. The player guesses letters with limited tries depending on the chosen difficulty level.
+
+
 > 💡 *More projects will be added soon...*
 
 ---
