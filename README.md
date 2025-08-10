@@ -51,13 +51,10 @@
 - 📊 **ATM System (Python)**  
   A mini banking system that includes PIN authentication, deposit, withdraw, and mini-statement functionality.
 
-- 🧠 **Guess the Word**  
-  A simple word guessing game where the program chooses a word from a predefined list, and the user must guess it letter by letter.
-
 - 🎲 **Guess the Number Game**  
   A fun number guessing game with multiple difficulty levels. The user has to guess a random number in a limited number of tries.
 
-- 🧩 **Guess the Word (Python)**  
+- 🧠 **Guess the Word (Python)**  
   A word guessing game where the program selects a random word from categories like Animals, Cities, Foods, etc. The player guesses letters with limited tries depending on the chosen difficulty level.
   
 - ✊ **Rock-Paper-Scissors Game (Python)**  
