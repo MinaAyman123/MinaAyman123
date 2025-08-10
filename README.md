@@ -59,6 +59,14 @@
 
 - 🧩 **Guess the Word (Python)**  
   A word guessing game where the program selects a random word from categories like Animals, Cities, Foods, etc. The player guesses letters with limited tries depending on the chosen difficulty level.
+  
+- ✊ **Rock-Paper-Scissors Game (Python)**  
+  A simple interactive console game where the player chooses Rock, Paper, or Scissors, and the computer randomly selects its move.  
+  The winner is determined based on the classic game rules.
+
+- 🔢 **Prime Numbers Dictionary (Python)**  
+  A Python program that generates a dictionary of prime numbers up to a user-defined limit,  
+  displays all primes, and allows the user to retrieve a prime by its position in the dictionary.
 
 
 > 💡 *More projects will be added soon...*
