@@ -75,6 +75,9 @@
 - ✅ **SQL (Basic)** – [View Certificate](https://www.hackerrank.com/certificates/de4e289e5d98)  
 - ✅ **SQL (Intermediate)** – [View Certificate](https://www.hackerrank.com/certificates/2c8a580d5d94)  
 - ✅ **SQL (Advanced)** – [View Certificate](https://www.hackerrank.com/certificates/93f6afb3863f)  
+- ✅ **Deep Learining** – [View Certificate](https://learn.nvidia.com/certificates?id=_QY67AU7TSaRAF2ekWPn1w)  
+- ✅ **Pandas** – [View Certificate](https://www.kaggle.com/learn/certification/minaaiman/pandas)  
+- ✅ **Data Visualization** – [View Certificate](https://www.kaggle.com/learn/certification/minaaiman/data-visualization)  
 
 > ✉️ *You can view or request any of my certificates via email or LinkedIn.*
 
