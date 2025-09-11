@@ -95,23 +95,33 @@
 </p>
 
 ---
-
 <h4 align="center">
   🔍 <a href="https://github.com/mina-ayman?tab=repositories">Explore my repositories</a>
+</h4>
 
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MinaAyman123/Zero-Grad-ML.git" title="Zero Grad">
-    <img align="left" height="115" 
+<!-- الصف الأول: Zero-Grad-ML + AI -->
+<p align="center">
+  <a href="https://github.com/MinaAyman123/Zero-Grad-ML" title="Zero Grad">
+    <img height="115" 
          src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=Zero-Grad-ML&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
-
-  
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MinaAyman123/AI.git" title="AI">
-    <img align="left" height="115" 
+  &nbsp;&nbsp;
+  <a href="https://github.com/MinaAyman123/AI" title="AI">
+    <img height="115" 
          src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=AI&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
-</h4>
+</p>
+
+<!-- الصف الثاني: MinaAyman123 + Portfolio -->
+<p align="center">
+  <a href="https://github.com/MinaAyman123/MinaAyman123" title="MinaAyman123 README">
+    <img height="115" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=MinaAyman123&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MinaAyman123/Portfolio" title="Portfolio">
+    <img height="115" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=MinaAyman123&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</p>
+
